@@ -4,7 +4,7 @@ Top 2 Overall in Dreamhack
 ● www.dreamhack.io
 ● Placed Top 2 Overall in the biggest hacking community of South Korea
 
-<Publishing>
+#Publishing
 
 Cryptocurrency Investment Strategy Through Blockchain Understanding (April 2022)
 Cho, Y., Blockchain, Cryptocurrency, Bookk publisher    
