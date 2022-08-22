@@ -1,4 +1,4 @@
-### Hi there I am slow thinker 
+### I am slow thinker 
 
 Top 2 Overall in Dreamhack 
 ● www.dreamhack.io
