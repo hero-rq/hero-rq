@@ -1,5 +1,10 @@
 ### I am slow thinker 
 
+I am a white hacker who loves hacking. I ranks second overall in Dreamhack, the largest existing hacking community in Korea (slow thinker). 
+I have helped the education of junior hackers a lot and am trying to foster new white hackers in the future. 
+I love slow-thinking and Google hacking, and I'm studying AI and cloud security. 
+I am interested in intelligent catharsis and helping many people with hacking.
+
 Top 2 Overall in Dreamhack 
 ● www.dreamhack.io
 ● Placed Top 2 Overall in the biggest hacking community of South Korea
