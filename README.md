@@ -1,13 +1,34 @@
 ### I am slow thinker 
 
-I am a white hacker who loves hacking. I ranks second overall in Dreamhack, the largest existing hacking community in Korea (slow thinker). 
-I have helped the education of junior hackers a lot and am trying to foster new white hackers in the future. 
-I love slow-thinking and Google hacking, and I'm studying AI and cloud security. 
+I am a white hacker who loves hacking. I ranked second overall in Dreamhack, the largest existing hacking community in Korea (slow thinker). 
+I love slow-thinking and Google hacking, and I'm also studying AI and cloud security. 
 I am interested in intelligent catharsis and helping many people with hacking.
+
+Top 1% in Tryhackme  (from 13/09/2022 subscribed)
+![tryhackme 1](https://user-images.githubusercontent.com/80503808/203474030-971b16e0-26a6-4721-88f5-b33fc5d05487.png)
+
+![tryhackcme 2](https://user-images.githubusercontent.com/80503808/203474041-178ad365-1eb3-4446-9623-aea7e9d185db.png)
 
 Top 2 Overall in Dreamhack 
 ● www.dreamhack.io
 ● Placed Top 2 Overall in the biggest hacking community of South Korea
+
+![slow thinker 1](https://user-images.githubusercontent.com/80503808/203473666-0c37d1c3-2b01-4541-bb5b-49c11e8f05fd.png)
+
+![slow thinker 7](https://user-images.githubusercontent.com/80503808/203473694-7788aa37-2448-4e54-ab08-5fb8b3a2acce.png)
+
+![slow thinker 2](https://user-images.githubusercontent.com/80503808/203473672-3a0d6f1d-dcf9-48bf-9a0a-95193c2839a1.png)
+
+![slow thinker 3](https://user-images.githubusercontent.com/80503808/203473700-c6848c61-546c-4f40-9089-7b45ebde5f86.png)
+
+![slow thinker 4](https://user-images.githubusercontent.com/80503808/203473709-5073afce-567b-4028-8209-098455f33bc6.png)
+
+![slow thinker 5](https://user-images.githubusercontent.com/80503808/203473720-c97a32ac-5aae-4870-ab88-b3ec952ee595.png)
+![slow thinker 6](https://user-images.githubusercontent.com/80503808/203473732-956ea42d-7546-493c-9ff4-67c836180b36.png)
+
+![slow thinker 8](https://user-images.githubusercontent.com/80503808/203473770-a70ca04b-2f49-4fa6-8165-0034be9a2cd7.png)
+This is the proof
+
 
 #Publishing
 
