@@ -5,7 +5,7 @@ I love slow-thinking and Google hacking, and I'm also studying AI and cloud secu
 I am interested in intelligent catharsis and helping many people with hacking.
 
 Top 1% in Tryhackme  (from 13/09/2022 subscribed)
-![tryhackme 1](https://user-images.githubusercontent.com/80503808/203474030-971b16e0-26a6-4721-88f5-b33fc5d05487.png)
+![tryhackme 1](https://user-images.githubusercontent.com/80503808/205262062-5a0dbbb9-5543-4c40-8e16-6eb3d4ed43d0.png)
 
 ![tryhackcme 2](https://user-images.githubusercontent.com/80503808/203474041-178ad365-1eb3-4446-9623-aea7e9d185db.png)
 
