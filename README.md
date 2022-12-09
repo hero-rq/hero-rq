@@ -4,10 +4,11 @@ I am a white hacker who loves hacking. I ranked second overall in Dreamhack, the
 I love slow-thinking and Google hacking, and I'm also studying AI and cloud security. 
 I am interested in intelligent catharsis and helping many people with hacking.
 
-Top 1% in Tryhackme  (from 13/09/2022 subscribed)
-![tryhackme 1](https://user-images.githubusercontent.com/80503808/205262062-5a0dbbb9-5543-4c40-8e16-6eb3d4ed43d0.png)
+Top 1% in Tryhackme  (from 13/09/2022 subscribed) - It took three months
 
-![tryhackcme 2](https://user-images.githubusercontent.com/80503808/203474041-178ad365-1eb3-4446-9623-aea7e9d185db.png)
+![흠냐흠냐 1](https://user-images.githubusercontent.com/80503808/206689118-4dec93d1-e507-4ed7-af77-56062d544a43.png)
+
+![흠냐흠냐 2](https://user-images.githubusercontent.com/80503808/206689129-3304745d-19bd-4f12-95ab-3f5871f6c93c.png)
 
 Top 2 Overall in Dreamhack 
 ● www.dreamhack.io
