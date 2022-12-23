@@ -6,7 +6,7 @@ I am interested in intelligent catharsis and helping many people with hacking.
 
 Top 1% in Tryhackme  (from 13/09/2022 subscribed) - It took three months
 
-![흠냐아](https://user-images.githubusercontent.com/80503808/208023118-e7ef4412-20f3-4f93-91ce-540c22428496.png)
+![흠냐아아앙](https://user-images.githubusercontent.com/80503808/209262729-42534132-0866-44ac-8c0b-b05e0455e48b.png)
 
 ![흠냐흠냐 2](https://user-images.githubusercontent.com/80503808/206689129-3304745d-19bd-4f12-95ab-3f5871f6c93c.png)
 
