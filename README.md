@@ -7,7 +7,7 @@ I am interested in intelligent catharsis and helping many people with hacking.
 ![gmasi](https://user-images.githubusercontent.com/80503808/211177873-f144949a-5ab0-4a6c-a275-371da3d3aa7e.png)
 
 Top 1% in Tryhackme  (from 13/09/2022 subscribed) - It took months
-![헤헿](https://user-images.githubusercontent.com/80503808/213071396-cd0311ad-7923-407c-a8c1-72944dc5eaaf.png)
+![흐힣](https://user-images.githubusercontent.com/80503808/213076179-7910fc8d-23dd-42f4-a77f-3de587a77354.png)
 
 ![흠냐흠냐 2](https://user-images.githubusercontent.com/80503808/206689129-3304745d-19bd-4f12-95ab-3f5871f6c93c.png)
 
