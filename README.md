@@ -1,30 +1,21 @@
 ### I am slow thinker 
 
-I'm an AI researcher (I am researching... ㅎㅎ)
+I'm an AI researcher 
 I am a white hacker who loves hacking. I ranked second overall in Dreamhack before, the largest existing hacking community in Korea (slow thinker). 
 I love meditation thinking and Googling.
 I am interested in intelligent catharsis and helping many people with hacking.
 
-![할루](https://user-images.githubusercontent.com/80503808/219300493-450ea64d-f907-48d8-ad69-faa65995334c.png)
+![hellow world](https://user-images.githubusercontent.com/80503808/222874696-4322342f-2aff-4426-971c-dae66ded8d0b.png)
 
-![할루 할루](https://user-images.githubusercontent.com/80503808/219300515-a397787b-8f33-4387-9c6c-63eff1472dc2.png)
+![hellow world 2](https://user-images.githubusercontent.com/80503808/222874700-341555b3-d057-49be-a968-8c085f84c2f7.png)
 
-Top 1% in Tryhackme  (from 13/09/2022 subscribed) - It took months
 
-![흠냐흠냐 2](https://user-images.githubusercontent.com/80503808/206689129-3304745d-19bd-4f12-95ab-3f5871f6c93c.png)
+Top 1% in Tryhackme  (from 13/09/2022 subscribed) - It took few months
 
-Top 2 Overall in Dreamhack 
+
+Top 2 Overall in Dreamhack (before) 
 ● www.dreamhack.io
 ● Placed Top 2 Overall in the biggest hacking community of South Korea
-
-![slow thinker 1](https://user-images.githubusercontent.com/80503808/203473666-0c37d1c3-2b01-4541-bb5b-49c11e8f05fd.png)
-
-![slow thinker 7](https://user-images.githubusercontent.com/80503808/203473694-7788aa37-2448-4e54-ab08-5fb8b3a2acce.png)
-
-![slow thinker 2](https://user-images.githubusercontent.com/80503808/203473672-3a0d6f1d-dcf9-48bf-9a0a-95193c2839a1.png)
-
-This is the proof
-
 
 #Publishing
 
