@@ -5,8 +5,9 @@ I am a white hacker who loves hacking. I ranked second overall in Dreamhack befo
 I love meditation thinking and Googling.
 I am interested in intelligent catharsis and helping many people with hacking.
 
-![ㅇㅅㅇ 1](https://github.com/hero-rq/hero-rq/assets/80503808/b1d0c8a3-4836-41a8-b892-c597330c359d)
-![오홋 ](https://github.com/hero-rq/hero-rq/assets/80503808/8a6ad83a-5389-4cb9-814b-135f3d60cfb1)
+![01](https://github.com/hero-rq/hero-rq/assets/80503808/800c9c8e-a8b6-4dcb-b938-7284f67504ee)
+![02](https://github.com/hero-rq/hero-rq/assets/80503808/ed61176c-9348-4346-b99b-d80550932759)
+
 
 Top 1% in Tryhackme  (from 13/09/2022 subscribed) - It took few months
 
