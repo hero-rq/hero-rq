@@ -9,7 +9,7 @@ I am interested in intelligent catharsis and helping many people with hacking.
 ![02](https://github.com/hero-rq/hero-rq/assets/80503808/ed61176c-9348-4346-b99b-d80550932759)
 
 
-Top 1% in Tryhackme  (from 13/09/2022 subscribed) - It took few months
+GOD level and Top 1% in Tryhackme  (from 13/09/2022 subscribed) - It took few months
 
 
 Top 2 Overall in Dreamhack (in the past) 
