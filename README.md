@@ -1,9 +1,9 @@
 ### I am slow thinker 
 
 I'm an AI researcher 
-I am a white hacker who loves hacking. I ranked second overall in Dreamhack before, the largest existing hacking community in Korea (slow thinker). 
+I am a white hacker who loves hacking.  
 I love meditation thinking and Googling.
-I am interested in intelligent catharsis and helping many people with hacking.
+I like intellectual catharsis.
 
 ![01](https://github.com/hero-rq/hero-rq/assets/80503808/201c0a8e-ba59-4deb-9b5d-bdffb84fc405)
 ![02](https://github.com/hero-rq/hero-rq/assets/80503808/fc76c6ca-8aac-4237-b4eb-91eec8d78b7c)
