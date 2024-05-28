@@ -11,10 +11,6 @@ I like intellectual catharsis.
 GOD level in Tryhackme  (from 13/09/2022 subscribed) - It took few months
 
 
-Top 2 Overall in Dreamhack (in the past) 
-● www.dreamhack.io
-● Placed Top 2 Overall in the biggest hacking community of South Korea
-
 #Publishing
 
 Cryptocurrency Investment Strategy Through Blockchain Understanding (April 2022)
