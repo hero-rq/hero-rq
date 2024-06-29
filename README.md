@@ -1,10 +1,7 @@
-#AI researcher 
-
-#White Hacker  
-
-#love meditation and intellectual catharsis 
-
-#GOD level in Tryhackme 
+AI researcher 
+White Hacker  
+love meditation and intellectual catharsis 
+GOD level in Tryhackme 
 
 ![01](https://github.com/hero-rq/hero-rq/assets/80503808/201c0a8e-ba59-4deb-9b5d-bdffb84fc405)
 ![02](https://github.com/hero-rq/hero-rq/assets/80503808/fc76c6ca-8aac-4237-b4eb-91eec8d78b7c)
