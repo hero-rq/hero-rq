@@ -1,6 +1,9 @@
 AI researcher 
+
 White Hacker  
+
 love meditation and intellectual catharsis 
+
 GOD level in Tryhackme 
 
 ![01](https://github.com/hero-rq/hero-rq/assets/80503808/201c0a8e-ba59-4deb-9b5d-bdffb84fc405)
