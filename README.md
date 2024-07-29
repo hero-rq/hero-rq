@@ -6,8 +6,9 @@ love meditation and intellectual catharsis
 
 GOD level in Tryhackme 
 
-![01](https://github.com/hero-rq/hero-rq/assets/80503808/201c0a8e-ba59-4deb-9b5d-bdffb84fc405)
-![02](https://github.com/hero-rq/hero-rq/assets/80503808/fc76c6ca-8aac-4237-b4eb-91eec8d78b7c)
+![Screenshot 2024-07-29 215445](https://github.com/user-attachments/assets/f82d5e59-e61e-4e12-8f25-a9a71f12b0d7)
+![Screenshot 2024-07-29 215524](https://github.com/user-attachments/assets/75cd4dbd-74d7-4f7f-b141-b42ebf2a96d1)
+
 
 GOD level in Tryhackme  (from 13/09/2022 subscribed) - It took few months
 
