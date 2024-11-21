@@ -1,6 +1,4 @@
-AI researcher 
-
-White Hacker  
+AI researcher & the Hacker  
 
 love meditation and intellectual catharsis 
 
