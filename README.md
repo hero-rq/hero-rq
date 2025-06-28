@@ -60,7 +60,7 @@ Youtube_is_Chicken : Yes, Youtube is Chicken
 cai_linux : powerful
 
 
-#Publishing
+## Publishing
 
 Cryptocurrency Investment Strategy Through Blockchain Understanding (April 2022)
 Cho, Y., Blockchain, Cryptocurrency, Bookk publisher    
