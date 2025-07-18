@@ -51,6 +51,8 @@ AIgnitionLab : Cracy project
 
 DevAutomator : test
 
+visual_ics_phi : visual ics experiments (game)
+
 AutoDev : AutoDev
 
 korean_keyboard : I like this app it is convenient
