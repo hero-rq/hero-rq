@@ -17,6 +17,8 @@ and others combined.
 
 Hacking_is_a_piece_of_cake: A small glimpse of some of my hacking exercises.   
 
+custom_owasp_top_10_app : very easy owasp top 10 app for AI PatchMaster 
+
 Food_Is_Therapy: A fun food recommendation app I created using LLMs, perfect for 
 exploring new dishes.   
 
