@@ -65,7 +65,7 @@ cai_linux : powerful
 
 lion : dangerous bomb
 
-thanks_diary_app : everyday we got opportunity to feel limitless "thanks" 
+thanks_diary_app : limitless thanks
 
 ## Publishing
 
