@@ -67,6 +67,8 @@ lion : dangerous bomb
 
 thanks_diary_app : limitless thanks
 
+infinity_baduk : do you like baduk ?? then dance !!
+
 ## Publishing
 
 Cryptocurrency Investment Strategy Through Blockchain Understanding (April 2022)
