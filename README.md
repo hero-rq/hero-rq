@@ -86,7 +86,7 @@ Cho, Y., Hacking, Offensive Security, Bookk
 A proposal for a Korean Language Learning token ecosystem using Blockchain (Jun 2023) Cho, Y. (2023). Blockchain and CryptoCurrency. Dongguk University ● Topics: Blockchain, token ecosystem, digital asset ● Indexes: Blockchain/token ecosystem/ language learning etc.
 
 What Is the AGI in Offensive Security? (Jan 2026)
-Cho, Y., Artificial General Intelligence, Offensive Security, arXiv
+Youngwoong Cho, Artificial General Intelligence, Offensive Security, arXiv
 ● Topics: AGI, Offensive Security, Formal Modeling, Symbolic Reasoning
 ● arXiv: 2601.19968
 ● URL: https://arxiv.org/abs/2601.19968
