@@ -77,8 +77,18 @@ Cho, Y., Blockchain, Cryptocurrency, Bookk publisher
 ● [isbn] : 9791137281592  paper book
 ● [isbn] : 9791137281356  electronic book
 
-
 Basic Lectures for White Hackers (May 2022)  
 Cho, Y., Hacking, Exploit, Bookk publisher    
 ● Topics: Web hacking and Reverse engineering 
 ● [isbn] : 9791137283008  
+
+A proposal for a Korean Language Learning token ecosystem using Blockchain (Jun 2023)
+Cho, Y. (2023). Blockchain and CryptoCurrency. Dongguk University
+●	Topics: Blockchain, token ecosystem, digital asset 
+●	Indexes: Blockchain/token ecosystem/ language learning etc.
+
+What Is the AGI in Offensive Security? (Jan 2026)
+Cho, Y., Artificial General Intelligence, Offensive Security, arXiv
+● Topics: AGI, Offensive Security, Formal Modeling, Symbolic Reasoning
+● arXiv: 2601.19968
+● URL: https://arxiv.org/abs/2601.19968
