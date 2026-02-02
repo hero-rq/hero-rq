@@ -76,6 +76,7 @@ Cho, Y., Blockchain, Cryptocurrency, Bookk publisher
 ● Topics: Blockchain and Cryptocurrency
 ● [isbn] : 9791137281592  paper book
 ● [isbn] : 9791137281356  electronic book
+● URL: https://search.shopping.naver.com/book/catalog/32682957626
 
 해커는 컴퓨터 언어로 말한다 (2022)
 Cho, Y., Hacking, Offensive Security, Bookk
