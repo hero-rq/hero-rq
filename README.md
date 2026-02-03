@@ -69,6 +69,8 @@ thanks_diary_app : limitless thanks
 
 infinity_baduk : do you like baduk ?? then dance !!
 
+color_changing_game : guess color' orders game
+
 ## Publishing
 
 Cryptocurrency Investment Strategy Through Blockchain Understanding (April 2022)
