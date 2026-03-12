@@ -69,7 +69,9 @@ thanks_diary_app : limitless thanks
 
 infinity_baduk : do you like baduk ?? then dance !!
 
-color_changing_game : guess color' orders game
+color_changing_game : guess color orders game
+
+genius_mix_game : become a reasoning god 
 
 ## Publishing
 
