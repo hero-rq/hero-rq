@@ -73,6 +73,8 @@ color_changing_game : guess color orders game
 
 genius_mix_game : become a reasoning god 
 
+Genius_Game : play fun and a reasoning god now
+
 ## Publishing
 
 Cryptocurrency Investment Strategy Through Blockchain Understanding (April 2022)
