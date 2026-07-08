@@ -77,12 +77,24 @@ Genius_Game : play fun and a reasoning god now
 
 ## Publishing
 
-Cryptocurrency Investment Strategy Through Blockchain Understanding (April 2022)
-Cho, Y., Blockchain, Cryptocurrency, Bookk publisher    
-● Topics: Blockchain and Cryptocurrency
-● [isbn] : 9791137281592  paper book
-● [isbn] : 9791137281356  electronic book
-● URL: https://search.shopping.naver.com/book/catalog/32682957626
+how to grow infinitely in hell ♾️ (June 2026) 
+Young, Wisdom, Life, Amazon KDP
+● Topics: Wise Life, Wisdom, Infinity 
+● ISBN-13 ‏: ‎979-8180059703
+● URL: https://www.amazon.co.uk/dp/B0H4CV33KX
+
+Authority-Conditioned Evaluation of LLM Agents: Measuring Utility and Safety Under User-Delegated Tool Authority (June 2026)
+Youngwoong Cho, Artificial General Intelligence, Offensive Security
+● Topics: AGI, Offensive Security, Excessive Agents, Agentdojo
+● DOI: https://doi.org/10.13140/RG.2.2.19667.95526
+
+What Is the AGI in Offensive Security? (Jan 2026)
+Youngwoong Cho, Artificial General Intelligence, Offensive Security, arXiv
+● Topics: AGI, Offensive Security, Formal Modeling, Symbolic Reasoning
+● arXiv: 2601.19968
+● URL: https://arxiv.org/abs/2601.19968
+
+A proposal for a Korean Language Learning token ecosystem using Blockchain (Jun 2023) Cho, Y. (2023). Blockchain and CryptoCurrency. Dongguk University ● Topics: Blockchain, token ecosystem, digital asset ● Indexes: Blockchain/token ecosystem/ language learning etc.
 
 해커는 컴퓨터 언어로 말한다 (2022)
 Cho, Y., Hacking, Offensive Security, Bookk
@@ -90,10 +102,9 @@ Cho, Y., Hacking, Offensive Security, Bookk
 ● [isbn]: 9791137283855
 (or [isbn] : 9791137283008 for Basic Lectures for White Hackers (May 2022))
 
-A proposal for a Korean Language Learning token ecosystem using Blockchain (Jun 2023) Cho, Y. (2023). Blockchain and CryptoCurrency. Dongguk University ● Topics: Blockchain, token ecosystem, digital asset ● Indexes: Blockchain/token ecosystem/ language learning etc.
-
-What Is the AGI in Offensive Security? (Jan 2026)
-Youngwoong Cho, Artificial General Intelligence, Offensive Security, arXiv
-● Topics: AGI, Offensive Security, Formal Modeling, Symbolic Reasoning
-● arXiv: 2601.19968
-● URL: https://arxiv.org/abs/2601.19968
+Cryptocurrency Investment Strategy Through Blockchain Understanding (April 2022)
+Cho, Y., Blockchain, Cryptocurrency, Bookk publisher    
+● Topics: Blockchain and Cryptocurrency
+● [isbn] : 9791137281592  paper book
+● [isbn] : 9791137281356  electronic book
+● URL: https://search.shopping.naver.com/book/catalog/32682957626
