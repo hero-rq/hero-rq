@@ -60,7 +60,7 @@ Youtube_is_Chicken : Yes, Youtube is Chicken
 
 cai_linux : powerful
 
-lion : dangerous bomb
+lion : dangerous (real) bomb
 
 thanks_diary_app : limitless thanks
 
