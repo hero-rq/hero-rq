@@ -72,7 +72,7 @@ genius_mix_game : become a reasoning god
 
 Genius_Game : play fun and a reasoning god now
 
-HackingGym : The more active you are, the healthier you become 
+HackingLab : The more active you are, the healthier you become 
 
 learning_korean_Haru : An interesting Korean learning app, Haru; what a time to be alive 
 
