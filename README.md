@@ -27,9 +27,6 @@ web_tamtamburin: A small collection of my work related to web hacking.
 AI_Network_attack_game: A hobby project I built in just one weekend, combining AI and 
 network attack simulations in a game format.   
 
-Korean_Learning_vocabulary: An interesting app for learning Korean vocabulary, made 
-for foreign learners, using Java.
-
 Code_Memo_fun: An app I made for myself to type code and practice.  
 
 covid_analysis: An analysis project on COVID-19 data using MATLAB that I worked on. 
@@ -76,6 +73,8 @@ genius_mix_game : become a reasoning god
 Genius_Game : play fun and a reasoning god now
 
 HackingGym : The more active you are, the healthier you become 
+
+learning_korean_Haru : An interesting Korean learning app, Haru; what a time to be alive 
 
 ## Publishing
 
